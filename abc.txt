@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ádsadsad
+=======
+Ã¡dasdasdasdxcvxcv
+cxvxcvxcv
+>>>>>>> a65da03d69d4907ed11ad3b47ebdda6d12bce985
